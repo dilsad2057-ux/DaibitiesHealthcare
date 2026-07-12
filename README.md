@@ -5,6 +5,7 @@ DHCP or Diabetes Health Care Programme is an integrated healthcare application f
 
 
 Tech Used:
+
 Python (3.12 or higher)
 Streamlit
 React JS
@@ -17,6 +18,8 @@ Gemini AI API
 
 
 Modules:
+
+
 Home Page
 Ask Query
 Diagnosis
